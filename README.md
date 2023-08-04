@@ -28,12 +28,12 @@ A relation R is in Boyce-Codd normal form (BCNF)
   * If and only if it is in 3NF and
   * For every functional dependency X → Y, X should be the primary key of the table.
 
-## Usage
-Download the main.py file and input.txt file at same directory.<br>
+## Steps
+Download the main.py file and input.txt file in the same directory.<br>
 Input must be in a form of Relational Set, Functional Dependency and Candidate Key.<br>
 Run main.py file.
 
-Output:
+# Output:
 ## 2 Normal Form
 ### Input
   R(A,B,C,D)
