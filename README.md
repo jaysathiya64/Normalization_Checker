@@ -38,7 +38,8 @@ Output:
     B -> C
 
 ### Output
-{'B'} -> {'C'} breaks 2NF requirements ( {'B'} is NOT Candidate Key )
+![image](https://github.com/jaysathiya64/Normalization_Checker/assets/126950992/2cc03fb8-98e5-489f-9b01-900bdbb0fd60)
+
 
 
 ## 3 Normal Form
@@ -50,7 +51,8 @@ Output:
     C -> A
 
 ### Output
-{'D'} -> {'B'} breaks 3NF 	requirements ( B is non-	prime )
+![image](https://github.com/jaysathiya64/Normalization_Checker/assets/126950992/de1c5092-4d72-407b-b776-1daaab9fca31)
+
 
 ## BCNF (Boyce-Codd Normal Form)
 ### Input
@@ -62,7 +64,8 @@ Output:
     C -> D
 
 ### Output
-{'C'} -> {'A'} breaks BCNNF requirements ( {'C'} is non-superkey )
+![image](https://github.com/jaysathiya64/Normalization_Checker/assets/126950992/5517e00c-f5f7-42f7-984d-1a303b085378)
+
 
 
 
