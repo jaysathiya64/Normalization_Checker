@@ -1,0 +1,6 @@
+R1(A,B,C,D,E,F)
+CK:-A
+A -> B
+A -> C
+C -> A
+C -> D
